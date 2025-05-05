@@ -1,11 +1,11 @@
-﻿using lab5;
+﻿using lab7;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace test.Controller
+namespace lab7.Controller
 {
     internal class AirportController
     {
@@ -19,7 +19,7 @@ namespace test.Controller
             _form1 = form1;
             _form2 = form2;
 
-            _form1.AirportAdded += 
+            //_form1.AirportAdded += 
         }
 
         private void AddAirport(Airport airport)

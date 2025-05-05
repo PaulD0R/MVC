@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using test;
+using lab7;
 
-namespace lab5
+namespace lab7
 {
     public partial class Form2 : Form
     {

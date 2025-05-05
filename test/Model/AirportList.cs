@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using test;
+using lab7;
 
-namespace lab5
+namespace lab7
 {
     public class AirportList
     {

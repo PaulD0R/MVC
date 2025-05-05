@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using lab5;
+using lab7;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MyTests

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using test;
+using lab7;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
-namespace lab5
+namespace lab7
 {
     public class Airport
     {

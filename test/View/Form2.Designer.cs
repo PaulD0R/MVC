@@ -1,8 +1,8 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
-using test;
+using lab7;
 
-namespace lab5
+namespace lab7
 {
     partial class Form2
     {
