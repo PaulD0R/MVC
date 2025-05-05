@@ -1,0 +1,11 @@
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\bin\Debug\test.exe.config
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\bin\Debug\test.exe
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\bin\Debug\test.pdb
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\lab1.BuyTicketForm.resources
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\lab1.Form1.resources
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\test.exe
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\test\test\obj\Debug\test.pdb

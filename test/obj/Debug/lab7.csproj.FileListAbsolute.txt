@@ -1,0 +1,11 @@
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\bin\Debug\test.exe.config
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\bin\Debug\test.exe
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\bin\Debug\test.pdb
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\lab5.Form1.resources
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\lab5.Form2.resources
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\test.exe
+C:\Users\Павел\Desktop\Курс 2\ООП(лабы)\lab7\test\obj\Debug\test.pdb
